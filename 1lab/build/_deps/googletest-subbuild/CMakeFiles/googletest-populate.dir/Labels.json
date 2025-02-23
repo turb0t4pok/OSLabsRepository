@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/GitHub/OSLabs/1lab/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/GitHub/OSLabs/1lab/build/_deps/googletest-subbuild/CMakeFiles/2e618a8c06f4926936ed99a9f391bb74/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/GitHub/OSLabs/1lab/build/_deps/googletest-subbuild/CMakeFiles/381dc0e53f121e0c9a3e5f40a07ff5e5/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/GitHub/OSLabs/1lab/build/_deps/googletest-subbuild/CMakeFiles/b7ef458d9760171cd06559c343db5a63/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/GitHub/OSLabs/1lab/build/_deps/googletest-subbuild/CMakeFiles/b7ef458d9760171cd06559c343db5a63/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/GitHub/OSLabs/1lab/build/_deps/googletest-subbuild/CMakeFiles/b7ef458d9760171cd06559c343db5a63/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/GitHub/OSLabs/1lab/build/_deps/googletest-subbuild/CMakeFiles/b7ef458d9760171cd06559c343db5a63/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/GitHub/OSLabs/1lab/build/_deps/googletest-subbuild/CMakeFiles/b7ef458d9760171cd06559c343db5a63/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/GitHub/OSLabs/1lab/build/_deps/googletest-subbuild/CMakeFiles/b7ef458d9760171cd06559c343db5a63/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/GitHub/OSLabs/1lab/build/_deps/googletest-subbuild/CMakeFiles/b7ef458d9760171cd06559c343db5a63/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/GitHub/OSLabs/1lab/build/_deps/googletest-subbuild/CMakeFiles/b7ef458d9760171cd06559c343db5a63/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

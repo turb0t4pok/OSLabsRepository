@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/GitHub/OSLabs/1lab/build/_deps/googletest-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

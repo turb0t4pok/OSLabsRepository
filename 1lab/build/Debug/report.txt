@@ -1,0 +1,5 @@
+File report "report.txt"
+Employee number	Employee name	Hours worked	Salary
+1		Dan		1		3
+2		Kolya		13		39
+10		Oleg		5		15
