@@ -1,0 +1,5 @@
+if(EXISTS "C:/GitHub/OSLabs/2lab/build/array_tests[1]_tests.cmake")
+  include("C:/GitHub/OSLabs/2lab/build/array_tests[1]_tests.cmake")
+else()
+  add_test(array_tests_NOT_BUILT array_tests_NOT_BUILT)
+endif()

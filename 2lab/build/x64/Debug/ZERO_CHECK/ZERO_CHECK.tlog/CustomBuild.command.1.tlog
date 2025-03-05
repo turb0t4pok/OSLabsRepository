@@ -1,0 +1,10 @@
+^C:\GITHUB\OSLABS\2LAB\BUILD\CMAKEFILES\F49D7233C48C724CC606D2045E7FB682\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/GitHub/OSLabs/2lab -BC:/GitHub/OSLabs/2lab/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/GitHub/OSLabs/2lab/build/array_processing.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+C:/GitHub/OSLabs/2lab/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+C:/GitHub/OSLabs/2lab/build/_deps/googletest-subbuild/CMakeFiles/0ee17324427b0087fb1bf1ec2eacf508/googletest-populate.rule
+C:/GitHub/OSLabs/2lab/build/_deps/googletest-subbuild/CMakeFiles/bc7e6d6cd17b87431696e34ec12de901/googletest-populate-complete.rule
+C:/GitHub/OSLabs/2lab/build/_deps/googletest-subbuild/CMakeFiles/83ad64c54cb7b50afaec1a7a3b0d0b83/googletest-populate-build.rule
+C:/GitHub/OSLabs/2lab/build/_deps/googletest-subbuild/CMakeFiles/83ad64c54cb7b50afaec1a7a3b0d0b83/googletest-populate-configure.rule
+C:/GitHub/OSLabs/2lab/build/_deps/googletest-subbuild/CMakeFiles/83ad64c54cb7b50afaec1a7a3b0d0b83/googletest-populate-download.rule
+C:/GitHub/OSLabs/2lab/build/_deps/googletest-subbuild/CMakeFiles/83ad64c54cb7b50afaec1a7a3b0d0b83/googletest-populate-install.rule
+C:/GitHub/OSLabs/2lab/build/_deps/googletest-subbuild/CMakeFiles/83ad64c54cb7b50afaec1a7a3b0d0b83/googletest-populate-mkdir.rule
+C:/GitHub/OSLabs/2lab/build/_deps/googletest-subbuild/CMakeFiles/83ad64c54cb7b50afaec1a7a3b0d0b83/googletest-populate-patch.rule
+C:/GitHub/OSLabs/2lab/build/_deps/googletest-subbuild/CMakeFiles/83ad64c54cb7b50afaec1a7a3b0d0b83/googletest-populate-test.rule
+C:/GitHub/OSLabs/2lab/build/_deps/googletest-subbuild/CMakeFiles/83ad64c54cb7b50afaec1a7a3b0d0b83/googletest-populate-update.rule
