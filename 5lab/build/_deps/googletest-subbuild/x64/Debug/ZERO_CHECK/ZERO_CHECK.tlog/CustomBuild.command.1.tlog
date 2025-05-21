@@ -1,0 +1,10 @@
+^C:\GITHUB\OSLABS\5LAB\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\55B4BC11C1A24EBC7AE889098D3CB060\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/GitHub/OSLabs/5lab/build/_deps/googletest-subbuild -BC:/GitHub/OSLabs/5lab/build/_deps/googletest-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/GitHub/OSLabs/5lab/build/_deps/googletest-subbuild/googletest-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

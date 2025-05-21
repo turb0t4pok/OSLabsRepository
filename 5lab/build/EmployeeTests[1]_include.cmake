@@ -1,0 +1,5 @@
+if(EXISTS "C:/GitHub/OSLabs/5lab/build/EmployeeTests[1]_tests.cmake")
+  include("C:/GitHub/OSLabs/5lab/build/EmployeeTests[1]_tests.cmake")
+else()
+  add_test(EmployeeTests_NOT_BUILT EmployeeTests_NOT_BUILT)
+endif()
