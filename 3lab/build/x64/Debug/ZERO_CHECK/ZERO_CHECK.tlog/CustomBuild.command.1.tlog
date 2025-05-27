@@ -1,0 +1,10 @@
+^C:\GITHUB\OSLABS\3LAB\BUILD\CMAKEFILES\A6FDE188F3B9D85B38EFCC48B3288C67\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/GitHub/OSLabs/3lab -BC:/GitHub/OSLabs/3lab/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/GitHub/OSLabs/3lab/build/MyProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

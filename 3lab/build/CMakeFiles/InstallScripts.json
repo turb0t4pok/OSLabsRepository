@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/GitHub/OSLabs/3lab/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

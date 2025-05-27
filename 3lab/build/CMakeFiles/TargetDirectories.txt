@@ -1,0 +1,4 @@
+C:/GitHub/OSLabs/3lab/build/CMakeFiles/main.dir
+C:/GitHub/OSLabs/3lab/build/CMakeFiles/test_runner.dir
+C:/GitHub/OSLabs/3lab/build/CMakeFiles/ALL_BUILD.dir
+C:/GitHub/OSLabs/3lab/build/CMakeFiles/ZERO_CHECK.dir
