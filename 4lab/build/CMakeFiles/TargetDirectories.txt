@@ -1,0 +1,5 @@
+C:/GitHub/OSLabs/4lab/build/CMakeFiles/receiver.dir
+C:/GitHub/OSLabs/4lab/build/CMakeFiles/sender.dir
+C:/GitHub/OSLabs/4lab/build/CMakeFiles/unit.dir
+C:/GitHub/OSLabs/4lab/build/CMakeFiles/ALL_BUILD.dir
+C:/GitHub/OSLabs/4lab/build/CMakeFiles/ZERO_CHECK.dir
